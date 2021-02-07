@@ -39,7 +39,7 @@ baseurl: "/musaml" # the subpath of your site, e.g. "/blog".
 # Github and twitter are optional:
 minima:
   social_links:
-    twitter: # link
+    twitter: musawakiliML
     github: musawakiliML
 
 # Set this to true to get LaTeX math equation support
