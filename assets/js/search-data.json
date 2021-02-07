@@ -41,6 +41,17 @@
 
   
       ,"page3": {
+          "title": "Projects",
+          "content": "",
+          "url": "https://musawakiliml.github.io/musaml/projects/",
+          "relUrl": "/projects/",
+          "date": ""
+      }
+      
+  
+
+  
+      ,"page4": {
           "title": "Paper Implementations",
           "content": "",
           "url": "https://musawakiliml.github.io/musaml/implementations/",
@@ -70,7 +81,7 @@
   
 
   
-      ,"page11": {
+      ,"page12": {
           "title": "",
           "content": "Sitemap: {{ “sitemap.xml” | absolute_url }} | .",
           "url": "https://musawakiliml.github.io/musaml/robots.txt",
