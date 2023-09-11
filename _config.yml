@@ -6,8 +6,8 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: Musa Wakili ML
-description: My Projects, Research Papers and Jupyter Notebooks
+title: Musa Wakili ML (Machine Learning Engineer)
+description: Projects, Research Papers and Jupyter Notebooks
 github_username: musawakiliML
 # you can comment the below line out if your repo name is not different than your baseurl
 github_repo: "musaml"
@@ -121,5 +121,5 @@ feed:
   posts_limit: 5 #default posts_limit: 10
   excerpt_only: true
   
-# exclude:
-#   - settings.ini
+exclude:
+  - settings.ini
